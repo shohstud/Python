@@ -1,0 +1,2 @@
+# Python
+Pythondagi amaliy kodlar
